@@ -1,0 +1,193 @@
+<keymap version="1" name="Xcode 2018.1" parent="Xcode">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt #10000a7" />
+  </action>
+  <action id="ActivateVersionControlToolWindow" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="shift meta alt u" />
+  </action>
+  <action id="CollapseDocComments" />
+  <action id="CommitDirectoryChanges" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.History.Browse" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.FindInGrid" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="DebugClass" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorDuplicate" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorToggleCase" />
+  <action id="EditorUnSelectWord" />
+  <action id="ExpandDocComments" />
+  <action id="ExtractInterface">
+    <keyboard-shortcut first-keystroke="meta alt 3" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="meta alt m" />
+  </action>
+  <action id="ExtractSuperclass">
+    <keyboard-shortcut first-keystroke="meta alt 1" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Find" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
+  <action id="Instruments" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift ctrl meta left" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="PerforceDirect.Edit" />
+  <action id="PopupHector">
+    <keyboard-shortcut first-keystroke="ctrl meta alt u" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="ReSharperGotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl meta alt down" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+    <keyboard-shortcut first-keystroke="meta alt e" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="RiderUnitTestDebugContextTwAction" />
+  <action id="RiderUnitTestSessionRerunFailedTestsTwAction" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.Debug" />
+  <action id="RunInspection">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowNavBar" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="ShowUmlDiagram" />
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
+  <action id="StopBackgroundProcesses">
+    <keyboard-shortcut first-keystroke="shift meta escape" />
+  </action>
+  <action id="Switcher" />
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.GoToRef" />
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.MoveWatchUp" />
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>
