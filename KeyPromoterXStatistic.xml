@@ -9,6 +9,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <ShortCut>'⌘9'</ShortCut>
+          <Description>Event Log</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="NuGet">
         <Item>
           <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
