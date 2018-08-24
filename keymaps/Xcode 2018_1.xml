@@ -38,6 +38,9 @@
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="shift meta alt back_space" />
+  </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -59,9 +62,15 @@
   <action id="CollapseDocComments" />
   <action id="CommitDirectoryChanges" />
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute" />
   <action id="Console.History.Browse" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.ColumnSortReset" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Console.TableResult.FindInGrid" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
@@ -70,13 +79,19 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="DebugClass" />
+  <action id="DecrementWindowHeight" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
-  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorChooseLookupItem" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
   <action id="EditorDuplicate" />
+  <action id="EditorEnter" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
@@ -90,8 +105,16 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta end" />
+    <keyboard-shortcut first-keystroke="shift end" />
+  </action>
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="meta home" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta home" />
+    <keyboard-shortcut first-keystroke="shift home" />
   </action>
   <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord" />
@@ -121,6 +144,8 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="IncrementWindowHeight" />
   <action id="Inline">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
@@ -153,6 +178,9 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
@@ -184,6 +212,9 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RiderUnitTestSessionRerunFailedTestsTwAction" />
   <action id="Run">
@@ -218,6 +249,15 @@
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.GoToRef" />
+  <action id="Vcs.RollbackChangedLines">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
   <action id="linessorter.sort">
