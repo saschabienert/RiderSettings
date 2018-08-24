@@ -266,6 +266,9 @@
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift ctrl f8" />
+  </action>
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
   <action id="linessorter.sort">
