@@ -90,6 +90,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+  </action>
   <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord" />
   <action id="ExpandDocComments" />
@@ -163,6 +166,10 @@
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl meta alt down" />
   </action>
+  <action id="RecentChanges" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="shift meta back_quote" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
@@ -192,7 +199,9 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
-  <action id="ShowNavBar" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
