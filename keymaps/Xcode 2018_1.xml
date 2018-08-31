@@ -62,6 +62,10 @@
   <action id="CodeGlance.toggle" />
   <action id="CollapseDocComments" />
   <action id="CommitDirectoryChanges" />
+  <action id="Compare.SameVersion" />
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="shift meta alt enter" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute" />
   <action id="Console.History.Browse" />
@@ -75,6 +79,7 @@
   <action id="Console.TableResult.FindInGrid" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="Console.Transaction.Commit" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta d" />
