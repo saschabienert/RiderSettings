@@ -95,9 +95,7 @@
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="EditorChooseLookupItem" />
   <action id="EditorChooseLookupItemCompleteStatement" />
-  <action id="EditorCompleteStatement" />
   <action id="EditorDuplicate" />
-  <action id="EditorEnter" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
