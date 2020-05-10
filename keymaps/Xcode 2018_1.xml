@@ -61,9 +61,7 @@
   </action>
   <action id="CodeGlance.toggle" />
   <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="shift meta subtract" />
     <keyboard-shortcut first-keystroke="shift meta minus" />
-    <keyboard-shortcut first-keystroke="shift meta alt minus" />
   </action>
   <action id="CollapseDocComments" />
   <action id="CommitDirectoryChanges" />
@@ -128,9 +126,7 @@
   <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord" />
   <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift meta add" />
     <keyboard-shortcut first-keystroke="shift meta equals" />
-    <keyboard-shortcut first-keystroke="shift meta alt equals" />
   </action>
   <action id="ExpandDocComments" />
   <action id="ExtractInterface">
