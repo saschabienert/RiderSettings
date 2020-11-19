@@ -11,7 +11,6 @@
     <entry key="ide.require.transaction.for.model.changes" value="false" />
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.tooltip.initialDelay" value="0" />
-    <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="parameter.info.max.visible.rows" value="10" />
@@ -33,6 +32,9 @@
     <entry key="show.log.as.editor.tab" value="false" />
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
-    <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="ide.borderless.tab.caption.in.title" value="false" />
+    <entry key="ide.debug.in.title" value="true" />
+    <entry key="rdclient.asyncActions" value="false" />
   </component>
 </application>
