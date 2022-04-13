@@ -83,12 +83,17 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1649851986082" />
+          <option name="id" value="1528545963799" />
           <option name="inputFilterGroups">
             <list>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
+                    <GrepExpressionItem>
+                      <option name="action" value="externalScriptReference" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*" />
+                    </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
                       <option name="enabled" value="false" />
