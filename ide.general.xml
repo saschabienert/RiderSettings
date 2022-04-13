@@ -23,5 +23,6 @@
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
