@@ -16,6 +16,9 @@
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateNuGetToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
@@ -56,11 +59,11 @@
   <action id="CleanSolutionAction">
     <keyboard-shortcut first-keystroke="shift meta alt k" />
   </action>
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="meta w" />
-  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CodeCleanup">
     <keyboard-shortcut first-keystroke="shift meta alt u" />
